@@ -31,7 +31,7 @@ The filters were designed using direct-coupled theory to precisely control frequ
 *Assembled PCB of the 2.45 GHz RF amplifier ready for measurement.*
 ## Measured S-Parameters
 
-![S-Parameters](s-parameters.png)  
+![S-Parameters](https://github.com/psarathi71/msc-thesis-2-45ghz-small-signal-amplifier/blob/04f743a7ac4d93ec2c63036a11377e3b50ba7b0f/S-parameters.png)  
 *Measured S11 (reflection) and S21 (gain) of the 2.45 GHz RF amplifier plotted together.*
 ### Results
 
