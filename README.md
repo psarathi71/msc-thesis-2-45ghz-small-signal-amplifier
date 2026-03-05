@@ -27,7 +27,7 @@ The filters were designed using direct-coupled theory to precisely control frequ
 ![PCB Layout](https://github.com/psarathi71/msc-thesis-2-45ghz-small-signal-amplifier/blob/b1e736dbdf4c61f435dbb3eb2ab617214a8d794f/Layout.png)  
 *Top-view of the designed PCB layout showing input/output filters and amplifier section.*
 
-![Fabricated PCB](fabrication.jpg)  
+![Fabricated PCB](https://github.com/psarathi71/msc-thesis-2-45ghz-small-signal-amplifier/blob/91e8efa245a6be320e75ccca4d515f089d8c1a4c/Fabrication.jpg)  
 *Assembled PCB of the 2.45 GHz RF amplifier ready for measurement.*
 
 ### Results
