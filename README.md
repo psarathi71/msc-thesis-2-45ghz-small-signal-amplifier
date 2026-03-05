@@ -22,9 +22,13 @@ The filters were designed using direct-coupled theory to precisely control frequ
 - Designed in ADS
 - PCB fabricated and assembled
 - Measured using VNA for S-parameters
-  ## PCB Layout
-![PCB Layout](pcb-layout.png)  
+## PCB & Fabrication
+
+![PCB Layout](layout.png)  
 *Top-view of the designed PCB layout showing input/output filters and amplifier section.*
+
+![Fabricated PCB](fabrication.jpg)  
+*Assembled PCB of the 2.45 GHz RF amplifier ready for measurement.*
 
 ### Results
 
