@@ -24,7 +24,7 @@ The filters were designed using direct-coupled theory to precisely control frequ
 - Measured using VNA for S-parameters
 ## PCB & Fabrication
 
-![PCB Layout](layout.png)  
+![PCB Layout](https://github.com/psarathi71/msc-thesis-2-45ghz-small-signal-amplifier/blob/b1e736dbdf4c61f435dbb3eb2ab617214a8d794f/Layout.png)  
 *Top-view of the designed PCB layout showing input/output filters and amplifier section.*
 
 ![Fabricated PCB](fabrication.jpg)  
